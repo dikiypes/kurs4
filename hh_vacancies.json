@@ -1,0 +1,1194 @@
+[
+  {
+    "id": "85226228",
+    "name": "Middle Auto QA (Python)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знание Python 3, SQL. Знание Framework для тестирования, например: pytest, selenium. Знание REST/SOAP, XML/JSON. Опыт работы GIT. "
+  },
+  {
+    "id": "84939159",
+    "name": "Junior Python developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знание Python, PowerShell, Java, VBS, bash. Знакомство с Postgresql, MSSQL, Oracle. Крайне желательно - опыт работы с КриптоПро. Опыт работы на..."
+  },
+  {
+    "id": "85872082",
+    "name": "Python-разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "T-shaped инженер с опытом работы на Python 3.9+. Уверенные знания алгоритмов и структур данных. Опыт производства чистого..."
+  },
+  {
+    "id": "86186135",
+    "name": "Бэкенд-разработчик (python)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт написания асинронных и многопоточных приложений на Python 3+ (aiohttp, asyncio, multiprocessing и др.). Хорошее понимание РСУБД (оптимизация запросов..."
+  },
+  {
+    "id": "86087243",
+    "name": "Младший разработчик Python, Маркетплейс, Стенды метрик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "От 1 года релевантного опыта работы. Опыт работы с Hadoop, ClickHouse, Hive, NoSQL. Базовое знание Spark, PySpark. Базовое владение Pyhton..."
+  },
+  {
+    "id": "85318458",
+    "name": "Backend разработчик (Python)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 150000,
+    "zp_to": null,
+    "rec": "Отличное знание Python 3 и SQL, библиотек для разработки API и работы с данными (FastAPI, Pandas, Numpy, SQL Alchemy, asyncio). "
+  },
+  {
+    "id": "86355853",
+    "name": "Python Back-end Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Мы ищем опытного Python Back-end Developer (middle+/senior) с отличными знаниями Django и опытом написания REST API. "
+  },
+  {
+    "id": "86225106",
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Python 3.6+. Flask. Знание реляционных БД: SQLite / PostgreSQL. Опыт работы с ORM SQLalchemy, миграции Alembic. Опыт работы с..."
+  },
+  {
+    "id": "86116590",
+    "name": "Программист Python",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 150000,
+    "zp_to": null,
+    "rec": "Опыт коммерческой python3 разработки от 3 лет. Опытный пользователь linux (понимание функциональных различий/возможностей в версиях ядра и применение..."
+  },
+  {
+    "id": "86102280",
+    "name": "Junior Python ML инженер – разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знания computer science: алгоритмы, структуры данных. Опыт работы с FastAPI или Flask. Знание аналитических пакетов Python: numpy, pandas, scikit-learn..."
+  },
+  {
+    "id": "86292820",
+    "name": "Программист системы сбора данных Python VBA",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 150000,
+    "zp_to": 200000,
+    "rec": "Знание Python для сбора данных (парсинга), VBA (макросы), SQL (MySQL), регулярных выражений. Опыт работы с системами контроля версий. "
+  },
+  {
+    "id": "85994183",
+    "name": "Python разработчик в продукт МТС Карма (Big Data)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт разработки Backend на Python от 3-х лет. Понимание как настраивать компоненты. Базовые знания Frontend разработки на React. "
+  },
+  {
+    "id": "86522000",
+    "name": "Разработчик Python (Middle+)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Имеет опыт коммерческой командной (не учебные проекты) разработки Python 3+ от 2-х лет. Имеет практический опыт разработки с..."
+  },
+  {
+    "id": "86378465",
+    "name": "Python разработчик на внутренний проект (удалённо)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 180000,
+    "zp_to": 250000,
+    "rec": "Опыт коммерческой разработки на Python от 2 лет. Опыт работы с любым вебфреймворком (FastAPI, Django, Flask, Sanic). Опыт работы с..."
+  },
+  {
+    "id": "86187287",
+    "name": "Python backend developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт разработки backend от 3 лет. Глубокое понимание Python (владение Python 3.5). Асинхронное программирование (asyncio, aiohttp/FastAPI). "
+  },
+  {
+    "id": "86325888",
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 2500,
+    "zp_to": null,
+    "rec": "Хорошее знание Python и опыт коммерческой разработки на нём не менее 3х лет. Опыт работы с Docker, FastAPI, SQLAlchemy..."
+  },
+  {
+    "id": "86189756",
+    "name": "Middle Python-разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 180000,
+    "zp_to": 230000,
+    "rec": "Хорошее владение технологиями: Python 3.x, RabbitMQ, PostgreSQL, Redis, Docker. Опыт разработки сложных высоконагруженных приложений. Ответственность и умение работать в..."
+  },
+  {
+    "id": "84756985",
+    "name": "Python разработчик (middle)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Высокие нагрузки: делаем приложения из экосистемы Сберкота. Интеграции с соцсетями. Короткие и длинные проекты: средняя длительность короткого проекта 1-3..."
+  },
+  {
+    "id": "85903537",
+    "name": "Junior/Middle Python-разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы с Python и соответствующими библиотеками (requests, beautifulsoup4, selenium, os, sys, json, copy, datetime, operator, shutil, inspect, pdfkit..."
+  },
+  {
+    "id": "86387633",
+    "name": "Программист python/django",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенные теоретические знания объектно-ориентированного программирования, паттернов проектирования, реляционного исчисления, теории вычислительных процессов и структур. Глубокое знание python и Django..."
+  },
+  {
+    "id": "83426431",
+    "name": "QA Engineer (Manual+Auto Python)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Законченное высшее техническое образование. Иметь коммерческий опыт ручного UI/API тестирования web-приложений от 1 года (devtools, postman). "
+  },
+  {
+    "id": "85706236",
+    "name": "Python разработчик (middle)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знание Python (3.9+). Понимание и умение использовать в работе async/await, loops. Знакомство с Pika, знание основ протокола..."
+  },
+  {
+    "id": "85995267",
+    "name": "Онлайн ассистент Python",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 30000,
+    "zp_to": null,
+    "rec": "Обязательное владение Python (линейные алгоритмы, ветвление, циклы, функции, коллекции), Django. Желательно знание Google Colaboratory, NumPy, Pandas, понимание принципов работы с..."
+  },
+  {
+    "id": "85052260",
+    "name": "Аналитик SQL,Python",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Владение методологией и знание процедуры (SQL) расчета показателей Качества Данных. Аудит процессов и данных в рамках заявленных бизнес-проблем (в..."
+  },
+  {
+    "id": "84693635",
+    "name": "Python Engineer / Python разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт программирования на python с деплоем в прод от 2 лет. Базовое знания SQL (умеете писать запросы, посмотреть что с..."
+  },
+  {
+    "id": "85298284",
+    "name": "Разработчик Python",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Понимание микросервисных асинхронных и реактивных взаимодействий, разных подходов к координации сервисов, их децентрализации и масштабированию. Хорошее понимание ООП, применение паттернов..."
+  },
+  {
+    "id": "85467569",
+    "name": "Python backend разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 200000,
+    "zp_to": null,
+    "rec": "защита от авто отликов). — Знание и опыт работы с Python, чем больше - тем лучше. — Умение анализировать чужой код и вдумчиво..."
+  },
+  {
+    "id": "85020706",
+    "name": "Python/Django разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 100000,
+    "zp_to": 250000,
+    "rec": "Опыт разработки сложных проектов. Многопоточный парсинг данных. Навыки работы с Selenium."
+  },
+  {
+    "id": "85879350",
+    "name": "Middle Python в Doubletapp",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 120000,
+    "zp_to": 170000,
+    "rec": "Опыт работы от 2 лет в backend-разработке. - Уверенное знание Python и фреймворков для веб-разработки. - Умение и желание писать..."
+  },
+  {
+    "id": "85143653",
+    "name": "Python developer (Middle+)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 2500,
+    "zp_to": 3500,
+    "rec": "Python 3.10. Django 4.3, DRF, Django Channels, Celery. PostgreSQL, Redis. Docker, Docker Compose. Опыт разработки на Python/Django..."
+  },
+  {
+    "id": "85302625",
+    "name": "Программист Python (удаленно)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 50000,
+    "zp_to": null,
+    "rec": "Опыт работы от 1 года в разработке на Python. Знание основных принципов программирования. Умение работать в команде и самостоятельно. "
+  },
+  {
+    "id": "84998609",
+    "name": "Программист Python",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 50000,
+    "zp_to": 100000,
+    "rec": "Писать качественный, надёжный код на Python. - Ответственно подходить к выполнению задач. - Анализировать и искать нужную информацию, технологии, выбирать из них..."
+  },
+  {
+    "id": "86129020",
+    "name": "Python developer (AI)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 5500,
+    "zp_to": 7500,
+    "rec": "Solid background in Python with a focus on backend development( 4+ years). Experience with asynchronous frameworks (asyncio, Tornado, or..."
+  },
+  {
+    "id": "86399447",
+    "name": "Разработчик Python",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знание Python (понимание ООП) и понимание работы языка. Опыт работы с асинхронным кодом. Опыт работы с асинхронным фреймворком FastAPI. "
+  },
+  {
+    "id": "86020723",
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт промышленной разработки на Python от 3 лет. Отличное знание SQL. Знание ООП, теории алгоритмов, структур данных. Опыт работы со..."
+  },
+  {
+    "id": "85308126",
+    "name": "Backend разработчик (Python)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы с FastAPI или Django, Flask. Умения работать с PostgreSQL/MySQL. Опыт работы с многопоточностью, асинхронностью. Знания основных паттернов..."
+  },
+  {
+    "id": "85862387",
+    "name": "Python developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Имеете опыт работы с Python более 2 лет. Обладаете знаниями классических алгоритмов и структур данных. Имеете опыт работы с Django..."
+  },
+  {
+    "id": "86045617",
+    "name": "Remote Python Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы с Python и Django от 3 лет (Python 3 приветствуется). Знание баз данных SQL и NoSQL (ClickHouse). "
+  },
+  {
+    "id": "85624336",
+    "name": "Middle Backend разработчик (Python)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт веб-разработки и программирования от 2-х лет. Качественный опыт написания кода на Python. Опыт проектирования систем и разработки..."
+  },
+  {
+    "id": "86418148",
+    "name": "Web3 Python разработчик со знанием backend разработки на Django/Celery",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 2500,
+    "zp_to": 3000,
+    "rec": "Опыт разработки смарт контрактов на основе технологий Solidity и/или Vyper. - Опыт использования web3.py библиотеки. - Знание среды разработки REMIX. - "
+  },
+  {
+    "id": "86470332",
+    "name": "Разработчик на Python в команду HD-Maps",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт коммерческой/командной разработки на Python3 более 3х лет. Опыт программирования в ООП. Работа с Docker. "
+  },
+  {
+    "id": "82240877",
+    "name": "Backend Developer (Python, Cloud)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Высшее образование. Минимум 3 года опыта разработки на Python. Опыт работы с СУБД (ClickHouse, PostgreSQL, MySQL). Опыт работы с сервисами..."
+  },
+  {
+    "id": "85983758",
+    "name": "Senior Python developer [Appbazar]",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Понимание базовых принципов Agile. Отличные знания и понимание принципов ООП. Хорошие знания и опыт проектирования баз данных и проектирование архитектуры..."
+  },
+  {
+    "id": "85631151",
+    "name": "Разработчик Python Flask/Django",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Какие знания и навыки для нас важны: Опыт реализации backend компонентов web приложений с использованием python от трех лет. "
+  },
+  {
+    "id": "85719746",
+    "name": "Python разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Имеете опыт разработки на Python 3.X. Понимаете механику языка Python и сопутствующих инструментов (pytest, mypy, poetry, flake8). "
+  },
+  {
+    "id": "86583618",
+    "name": "Специалист по тестированию Python, Маркетплейс, CRM для контрагентов",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Начальный опыт разработки автотестов на Python или других языках при готовности перейти на Python. Опыт ручного тестирования от 3х..."
+  },
+  {
+    "id": "86044733",
+    "name": "Python Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт коммерческой разработки на Python не менее 3-х лет. Пoнимaниe пpинципoв и oпыт paзpaбoтки OOП, SOLID, ассинхронного кoда (циклов..."
+  },
+  {
+    "id": "83781565",
+    "name": "Python developer (Middle)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Какой опыт хотели бы видеть: Коммерческий опыт работы с Python от 3х лет. Знакомство с фреймворками Flask / Django / FastAPI..."
+  },
+  {
+    "id": "84363392",
+    "name": "Программист-разработчик на Python",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Честность, ответственность. Знание английского. Опыт работы с данными на numpy, pandas, matplotlib, plotly. Опыт с pytorch, tensorflow, SQL, Dash приветствуется. "
+  },
+  {
+    "id": "81942768",
+    "name": "Python developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы от 1 года. Отличное знание Python. Опыт разработки web-приложений и API. Знание принципов работы HTTP/HTTPS. "
+  },
+  {
+    "id": "86061972",
+    "name": "JS-разработчик (React)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенное знание React, TypeScript. Опыт работы с React от 2 лет. Умение работать с системами контроля версий. Понимание принципов взаимодействия..."
+  },
+  {
+    "id": "85699415",
+    "name": "Backend разработчик (Node.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт от 3 лет коммерческой разработки бэкенда. Уверенное знание SQL и JS (TS). Опыт работы с облачными провайдерами (GCP, AWS..."
+  },
+  {
+    "id": "86285823",
+    "name": "Frontend-разработчик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 300000,
+    "zp_to": null,
+    "rec": "Экспертное знание JavaScript (включая современные стандарты ES6, ES7) и особенностей языка, опыт использования TypeScript. Опыт разработки приложений на..."
+  },
+  {
+    "id": "85459366",
+    "name": "Frontend разработчик (React.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы от 2-ух лет на целевом стэке (typescript, react), желательно в нормальном enterprise. Отличное значение JavaScript, включая теорию. "
+  },
+  {
+    "id": "85028396",
+    "name": "Frontend-разработчик (Vue.js) middle",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенное знание JavaScript и Vue.js, опыт коммерческой разработки на них. Навыки адаптивной вёрстки. Навыки работы с Git. Опыт разработки на..."
+  },
+  {
+    "id": "85649460",
+    "name": "Frontend developer (JS, HTML)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Умение верстать семантический HTML. Владение CSS и SASS. Знание современного JavaScript. Знание React и Redux. Умение грамотно структурировать код проекта. "
+  },
+  {
+    "id": "86384646",
+    "name": "Node JS midle+ developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 100000,
+    "zp_to": 150000,
+    "rec": "Опыт коммерческой разработки от 2 лет. Знание работы с API, включая создание и интеграцию с ними. Умение работать в команде..."
+  },
+  {
+    "id": "85705903",
+    "name": "Backend разработчик стажер (Node.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 30000,
+    "zp_to": null,
+    "rec": "Не останутся без внимания навыки: HTML5. CSS3."
+  },
+  {
+    "id": "85852354",
+    "name": "Java Script разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 100000,
+    "zp_to": 180000,
+    "rec": "Коммерческий опыт работы с JavaScript/TypeScript, Angular, Nodejs не менее 1 года. Уверенные знания и опыт с HTML5, CSS..."
+  },
+  {
+    "id": "85683370",
+    "name": "JavaScript Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенное знание JavaScript, TypeScript, HTML, CSS, DOM. Опыт кросс-браузерной верстки. Знание и опыт работы с React. Навыки работы с..."
+  },
+  {
+    "id": "86129132",
+    "name": "Старший разработчик JavaScript, Доставка",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы с git. Уверенное знание нативного JavaScript (ES5/6). Опыт работы с реактивным фреймворкам (Vue.js). Понимание технологий и..."
+  },
+  {
+    "id": "86284194",
+    "name": "Node.JS Backend Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": 350000,
+    "rec": "Знание Node.js 12+. - Опыт разработки Restful API. - Опыт работы с веб-фреймворками Express, Koa или подобными. - Опыт работы с..."
+  },
+  {
+    "id": "86479451",
+    "name": "Разработчик интернет магазина цветов Opencart - PHP\\JS\\SQL",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 120000,
+    "zp_to": 160000,
+    "rec": "Должность разработчика в активно растущий проект, с желанием развиваться в областях разработки и СЕО продвижения. От 1 года работы с..."
+  },
+  {
+    "id": "85885778",
+    "name": "Middle Frontend-разработчик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Пожелания к твоему опыту: Опыт от 3х лет во frontend разработке. Опыт работы с Vue.js 3.0, Pinia. "
+  },
+  {
+    "id": "86510389",
+    "name": "Специалист Node.js. (Разработка торгового терминала для торговли с фьючерсами)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Вакансия: Разработчик Node.js с опытом работы с производными контрактами (фьючерсами). Полный пансион и проживание в Латинской Америке. Обширный опыт и..."
+  },
+  {
+    "id": "85979367",
+    "name": "FrontEnd Developer (JS, React)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 250000,
+    "zp_to": 300000,
+    "rec": "Опыт от 3л на чистом JS. Умение писать читаемый, понятный код, используя чистый Javascript и jquery. Хорошее знание клиентских..."
+  },
+  {
+    "id": "86281173",
+    "name": "Frontend- developer (React.js) Senior",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знания JavaScript (ES5+). Опыт работы с React.js и Redux. Знания и опыт работы с Typescript. Современные подходы к..."
+  },
+  {
+    "id": "86203552",
+    "name": "Разработчик vue.js",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знание MySQL, postgres, MS SQL Server 2012 и выше (создание запросов, первичная диагностика неполадок). Знание языков программирования: PHP, VueJS, sql..."
+  },
+  {
+    "id": "85264482",
+    "name": "Junior frontend разработчик Vue.js (удаленная работа)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Что нужно уметь: Опыт коммерческой разработки на vue.js. Уверенное знание и владение БЭМ методологией. JavaScript, ES6, webpack. Console.log('start'). "
+  },
+  {
+    "id": "86072457",
+    "name": "Верстальщик( html / php / js )",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 50000,
+    "zp_to": 80000,
+    "rec": "Опыт работы верстальщиком от 1 года. - Знание современных стандартов и методологий верстки (HTML5, CSS3, Flexbox, Grid, php). - "
+  },
+  {
+    "id": "85866280",
+    "name": "JavaScript Developer specialist (Junior)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 80000,
+    "zp_to": 120000,
+    "rec": "Опыт работы с js / TypeScript / node.js. Опыт работы с git (merge, rebase). Английский на уровне чтения технической литературы. Коммуникативные навыки. "
+  },
+  {
+    "id": "84435010",
+    "name": "Middle Frontend-разработчик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 80000,
+    "zp_to": null,
+    "rec": "В любой коммуникации люди на первом месте. Регламенты должны помогать, а не ограничивать. Жесткая субординация — не про нас. "
+  },
+  {
+    "id": "86020652",
+    "name": "Senior Full-Stack Developer (C#, .Net, JS, MS-SQL, Remote)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 4000,
+    "zp_to": 7000,
+    "rec": "Net and C#. Multi-threading development - deep understanding. High load applications development. Solid knowledge of Docker, Kubernetes. 3+ years..."
+  },
+  {
+    "id": "86066477",
+    "name": "Верстальщик (vue.js) в online кинотеатр KION",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенный опыт с Vue.js, JavaScript, TypeScript. Базовые знания Angular, React. Threejs – существенный плюс. Базовые знания GitLab (gitlab-ci), Docker. "
+  },
+  {
+    "id": "86153093",
+    "name": "Frontend-разработчик (JS, React) middle+/senior",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт коммерческой разработки от 3-х лет. Уверенное знание HTML, CSS, JavaScript, React, Typescript, MobX. Базовое понимание webpack. "
+  },
+  {
+    "id": "85431688",
+    "name": "Node.Js разработчик (удаленно)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Нам требуется NodeJS разработчик с опытом работы от 1 до 3х лет и с хорошим опытом работы с Базами..."
+  },
+  {
+    "id": "85964204",
+    "name": "Backend Node.js developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Понимание внутренних механизмов работы NodeJS. Опыт работы с инструментами дебаггинга и профилизации. Уверенные знания JavaScript и TypeScript. NestJS, MongoDB, RedisDB..."
+  },
+  {
+    "id": "85054482",
+    "name": "Разработчик (php, js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 60000,
+    "zp_to": null,
+    "rec": "Уверенные знания и опыт работы с wordpress, php, html, css, js (jquery). Понимание основ API, XML. Желательно владение Git и..."
+  },
+  {
+    "id": "85563283",
+    "name": "Frontend разработчик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": 150000,
+    "rec": "Опыт коммерческой разработки от 2 лет. Отличное знание HTML5, CSS (SCSS), JS ES7+. Хорошие навыки работы с..."
+  },
+  {
+    "id": "85005960",
+    "name": "Разработчик Node.js Junior",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт коммерческой разработки от 8 месяцев. Разработка бэкенда на Node.js /Next.js/ Express. Умение читать код на java. Опыт разработки API. "
+  },
+  {
+    "id": "85931572",
+    "name": "Frontend-разработчик Vue.js",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 160000,
+    "zp_to": 190000,
+    "rec": "Знание JavaScript, Vue.js, HTML & CSS, Git. Применение практик код-ревью и рефакторинга. Написание unit-тестов. Самостоятельность в исполнении задач."
+  },
+  {
+    "id": "86260349",
+    "name": "Программист-разработчик Java Script",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт веб-разработки от 2-х лет (с использованием REST API, Python, Django, JavaScript и PostgreSQL). Навыки работы облачными хранилищами..."
+  },
+  {
+    "id": "85705043",
+    "name": "Node.js разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт от 1 года коммерческой разработки с использованием Node.js и TypeScript. Понимать архитектуры веб-приложений и принципов работы серверной части. "
+  },
+  {
+    "id": "86015260",
+    "name": "JS разработчик (React, ReactNative, Webpack)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": 200000,
+    "rec": "Понимание принципов работы JavaScript. Хорошее знание TypeScript, CSS и принципов адаптивной верстки. React, ReactNative, Webpack. Знание библиотек и фреймворков для..."
+  },
+  {
+    "id": "86537570",
+    "name": "Full-stack разработчик (Node.js_TypeScript_React)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт в роли web full stack разработчика NodeJS/TS/NestJS от 3 лет с участием в высоконагруженных проектах. "
+  },
+  {
+    "id": "86338566",
+    "name": "Fullstack разработчик (JavaScript\\TypeScript\\SQL)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Стек технологий: SQL (возможен опыт с SQL или Oracle). JavaScript / TypeScript. Желательно: Net.Core."
+  },
+  {
+    "id": "86139025",
+    "name": "React.js Node.js Fullstack Developer (middle)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 300000,
+    "zp_to": null,
+    "rec": "Релевантный опыт работы более 3х лет. Практический опыт разработки веб-приложений (желательно, с использованием асинхронных языков программирования и с..."
+  },
+  {
+    "id": "86468737",
+    "name": "Web-разработчик (PHP, JS, MySQL, Yii1) Junior+/Middle",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 120000,
+    "zp_to": 160000,
+    "rec": "Опытом в коммерческой разработке от года. Умение писать простой и понятный код. Умение анализировать информацию и самостоятельно находить решение проблем. "
+  },
+  {
+    "id": "85865324",
+    "name": "Frontend Developer/Vue.js (Middle)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 199500,
+    "zp_to": null,
+    "rec": "Уверенное знание JavaScript, HTML5, CSS3, GIT. Знание одного из фреймворков: Vue.js, React, Angular. Практические знания адаптивной верстки с..."
+  },
+  {
+    "id": "85829831",
+    "name": "Senior Frontend-разработчик (JavaScript, React)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 300000,
+    "zp_to": null,
+    "rec": "Обязательно опыт от 5 лет с высоконагруженными приложениями (от 1 млн пользователей в месяц): JavaScript. React. Redux. CSS3. "
+  },
+  {
+    "id": "86471177",
+    "name": "Middle Vue.js разработчик (удаленно)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Что нужно знать: Отличные знания JS es6+, HTML/CSS на уровне профи, уметь работать с pug. "
+  },
+  {
+    "id": "86444375",
+    "name": "JS Developer (Angular)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Высшее образование. Опыт Frontend разработки от 2х лет. Опыт работы с Angular. Уверенные знания JavaScript (асинхроность, работа браузера, контексты..."
+  },
+  {
+    "id": "86220722",
+    "name": "Middle Верстальщик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Отличные знания HTML и CSS (и SCSS). Адаптивная верстка (подход Mobile First). Кроссбраузерная, семантическая и доступная вёрстка. Владение БЭМ-методологией. "
+  },
+  {
+    "id": "85656387",
+    "name": "Разработчик Fullstack php+ js (госуслуги, госвеб)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Аналитическое мышление и умение систематизировать информацию. Хорошие знания PHP 7.4+. ООП, PSR, Паттерны проектирования. Composer, GIT. "
+  },
+  {
+    "id": "86268096",
+    "name": "Frontend developer (Vue.Js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": 220000,
+    "rec": "Опыт от 2 лет. Знание и опыт работы с JS-фреймворками (VueJS), понимание реактивности, декларативного подхода в программировании. "
+  },
+  {
+    "id": "86097402",
+    "name": "Ведущий JS - разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы с поддержкой и модификацией чужого кода. Знание и понимание реализации ООП в JS. Знание и понимание реляционных СУБД..."
+  },
+  {
+    "id": "85705671",
+    "name": "Front-end разработчик (JavaScript / React / Angular / Vue)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Хорошее понимание разработки web приложений на JavaScript. Опыт разработки от 3х лет с использование фреймворков React/Angular/Vue. "
+  },
+  {
+    "id": "86016091",
+    "name": "FullStack разработчик (PHP, Javascript)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Практический опыт работы от 3-х лет. Опыт работы HTML, CSS, JS. Отличные знания PHP фреймворков (Yii2, Laravel и..."
+  },
+  {
+    "id": "86258314",
+    "name": "JavaScript Developer (Antidrone)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенное владение JS. Базовые знания HTML CSS/SASS. Уверенное владение React. Опыт работы с Redux/MobX. Опыт работы с git. "
+  },
+  {
+    "id": "86061972",
+    "name": "JS-разработчик (React)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенное знание React, TypeScript. Опыт работы с React от 2 лет. Умение работать с системами контроля версий. Понимание принципов взаимодействия..."
+  },
+  {
+    "id": "85699415",
+    "name": "Backend разработчик (Node.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт от 3 лет коммерческой разработки бэкенда. Уверенное знание SQL и JS (TS). Опыт работы с облачными провайдерами (GCP, AWS..."
+  },
+  {
+    "id": "86285823",
+    "name": "Frontend-разработчик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 300000,
+    "zp_to": null,
+    "rec": "Экспертное знание JavaScript (включая современные стандарты ES6, ES7) и особенностей языка, опыт использования TypeScript. Опыт разработки приложений на..."
+  },
+  {
+    "id": "85459366",
+    "name": "Frontend разработчик (React.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы от 2-ух лет на целевом стэке (typescript, react), желательно в нормальном enterprise. Отличное значение JavaScript, включая теорию. "
+  },
+  {
+    "id": "85649460",
+    "name": "Frontend developer (JS, HTML)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Умение верстать семантический HTML. Владение CSS и SASS. Знание современного JavaScript. Знание React и Redux. Умение грамотно структурировать код проекта. "
+  },
+  {
+    "id": "85028396",
+    "name": "Frontend-разработчик (Vue.js) middle",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенное знание JavaScript и Vue.js, опыт коммерческой разработки на них. Навыки адаптивной вёрстки. Навыки работы с Git. Опыт разработки на..."
+  },
+  {
+    "id": "86384646",
+    "name": "Node JS midle+ developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 100000,
+    "zp_to": 150000,
+    "rec": "Опыт коммерческой разработки от 2 лет. Знание работы с API, включая создание и интеграцию с ними. Умение работать в команде..."
+  },
+  {
+    "id": "85852354",
+    "name": "Java Script разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 100000,
+    "zp_to": 180000,
+    "rec": "Коммерческий опыт работы с JavaScript/TypeScript, Angular, Nodejs не менее 1 года. Уверенные знания и опыт с HTML5, CSS..."
+  },
+  {
+    "id": "85705903",
+    "name": "Backend разработчик стажер (Node.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 30000,
+    "zp_to": null,
+    "rec": "Не останутся без внимания навыки: HTML5. CSS3."
+  },
+  {
+    "id": "85683370",
+    "name": "JavaScript Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенное знание JavaScript, TypeScript, HTML, CSS, DOM. Опыт кросс-браузерной верстки. Знание и опыт работы с React. Навыки работы с..."
+  },
+  {
+    "id": "86129132",
+    "name": "Старший разработчик JavaScript, Доставка",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы с git. Уверенное знание нативного JavaScript (ES5/6). Опыт работы с реактивным фреймворкам (Vue.js). Понимание технологий и..."
+  },
+  {
+    "id": "86284194",
+    "name": "Node.JS Backend Developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": 350000,
+    "rec": "Знание Node.js 12+. - Опыт разработки Restful API. - Опыт работы с веб-фреймворками Express, Koa или подобными. - Опыт работы с..."
+  },
+  {
+    "id": "86479451",
+    "name": "Разработчик интернет магазина цветов Opencart - PHP\\JS\\SQL",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 120000,
+    "zp_to": 160000,
+    "rec": "Должность разработчика в активно растущий проект, с желанием развиваться в областях разработки и СЕО продвижения. От 1 года работы с..."
+  },
+  {
+    "id": "85885778",
+    "name": "Middle Frontend-разработчик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Пожелания к твоему опыту: Опыт от 3х лет во frontend разработке. Опыт работы с Vue.js 3.0, Pinia. "
+  },
+  {
+    "id": "86510389",
+    "name": "Специалист Node.js. (Разработка торгового терминала для торговли с фьючерсами)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Вакансия: Разработчик Node.js с опытом работы с производными контрактами (фьючерсами). Полный пансион и проживание в Латинской Америке. Обширный опыт и..."
+  },
+  {
+    "id": "86072457",
+    "name": "Верстальщик( html / php / js )",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 50000,
+    "zp_to": 80000,
+    "rec": "Опыт работы верстальщиком от 1 года. - Знание современных стандартов и методологий верстки (HTML5, CSS3, Flexbox, Grid, php). - "
+  },
+  {
+    "id": "85979367",
+    "name": "FrontEnd Developer (JS, React)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 250000,
+    "zp_to": 300000,
+    "rec": "Опыт от 3л на чистом JS. Умение писать читаемый, понятный код, используя чистый Javascript и jquery. Хорошее знание клиентских..."
+  },
+  {
+    "id": "86281173",
+    "name": "Frontend- developer (React.js) Senior",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знания JavaScript (ES5+). Опыт работы с React.js и Redux. Знания и опыт работы с Typescript. Современные подходы к..."
+  },
+  {
+    "id": "85264482",
+    "name": "Junior frontend разработчик Vue.js (удаленная работа)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Что нужно уметь: Опыт коммерческой разработки на vue.js. Уверенное знание и владение БЭМ методологией. JavaScript, ES6, webpack. Console.log('start'). "
+  },
+  {
+    "id": "86203552",
+    "name": "Разработчик vue.js",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Знание MySQL, postgres, MS SQL Server 2012 и выше (создание запросов, первичная диагностика неполадок). Знание языков программирования: PHP, VueJS, sql..."
+  },
+  {
+    "id": "85866280",
+    "name": "JavaScript Developer specialist (Junior)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 80000,
+    "zp_to": 120000,
+    "rec": "Опыт работы с js / TypeScript / node.js. Опыт работы с git (merge, rebase). Английский на уровне чтения технической литературы. Коммуникативные навыки. "
+  },
+  {
+    "id": "84435010",
+    "name": "Middle Frontend-разработчик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 80000,
+    "zp_to": null,
+    "rec": "В любой коммуникации люди на первом месте. Регламенты должны помогать, а не ограничивать. Жесткая субординация — не про нас. "
+  },
+  {
+    "id": "86020652",
+    "name": "Senior Full-Stack Developer (C#, .Net, JS, MS-SQL, Remote)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 4000,
+    "zp_to": 7000,
+    "rec": "Net and C#. Multi-threading development - deep understanding. High load applications development. Solid knowledge of Docker, Kubernetes. 3+ years..."
+  },
+  {
+    "id": "86153093",
+    "name": "Frontend-разработчик (JS, React) middle+/senior",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт коммерческой разработки от 3-х лет. Уверенное знание HTML, CSS, JavaScript, React, Typescript, MobX. Базовое понимание webpack. "
+  },
+  {
+    "id": "86066477",
+    "name": "Верстальщик (vue.js) в online кинотеатр KION",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенный опыт с Vue.js, JavaScript, TypeScript. Базовые знания Angular, React. Threejs – существенный плюс. Базовые знания GitLab (gitlab-ci), Docker. "
+  },
+  {
+    "id": "85431688",
+    "name": "Node.Js разработчик (удаленно)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Нам требуется NodeJS разработчик с опытом работы от 1 до 3х лет и с хорошим опытом работы с Базами..."
+  },
+  {
+    "id": "85964204",
+    "name": "Backend Node.js developer",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Понимание внутренних механизмов работы NodeJS. Опыт работы с инструментами дебаггинга и профилизации. Уверенные знания JavaScript и TypeScript. NestJS, MongoDB, RedisDB..."
+  },
+  {
+    "id": "85005960",
+    "name": "Разработчик Node.js Junior",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт коммерческой разработки от 8 месяцев. Разработка бэкенда на Node.js /Next.js/ Express. Умение читать код на java. Опыт разработки API. "
+  },
+  {
+    "id": "85054482",
+    "name": "Разработчик (php, js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 60000,
+    "zp_to": null,
+    "rec": "Уверенные знания и опыт работы с wordpress, php, html, css, js (jquery). Понимание основ API, XML. Желательно владение Git и..."
+  },
+  {
+    "id": "85563283",
+    "name": "Frontend разработчик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": 150000,
+    "rec": "Опыт коммерческой разработки от 2 лет. Отличное знание HTML5, CSS (SCSS), JS ES7+. Хорошие навыки работы с..."
+  },
+  {
+    "id": "85931572",
+    "name": "Frontend-разработчик Vue.js",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 160000,
+    "zp_to": 190000,
+    "rec": "Знание JavaScript, Vue.js, HTML & CSS, Git. Применение практик код-ревью и рефакторинга. Написание unit-тестов. Самостоятельность в исполнении задач."
+  },
+  {
+    "id": "86260349",
+    "name": "Программист-разработчик Java Script",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт веб-разработки от 2-х лет (с использованием REST API, Python, Django, JavaScript и PostgreSQL). Навыки работы облачными хранилищами..."
+  },
+  {
+    "id": "85705043",
+    "name": "Node.js разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт от 1 года коммерческой разработки с использованием Node.js и TypeScript. Понимать архитектуры веб-приложений и принципов работы серверной части. "
+  },
+  {
+    "id": "86015260",
+    "name": "JS разработчик (React, ReactNative, Webpack)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": 200000,
+    "rec": "Понимание принципов работы JavaScript. Хорошее знание TypeScript, CSS и принципов адаптивной верстки. React, ReactNative, Webpack. Знание библиотек и фреймворков для..."
+  },
+  {
+    "id": "86139025",
+    "name": "React.js Node.js Fullstack Developer (middle)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 300000,
+    "zp_to": null,
+    "rec": "Релевантный опыт работы более 3х лет. Практический опыт разработки веб-приложений (желательно, с использованием асинхронных языков программирования и с..."
+  },
+  {
+    "id": "86338566",
+    "name": "Fullstack разработчик (JavaScript\\TypeScript\\SQL)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Стек технологий: SQL (возможен опыт с SQL или Oracle). JavaScript / TypeScript. Желательно: Net.Core."
+  },
+  {
+    "id": "85865324",
+    "name": "Frontend Developer/Vue.js (Middle)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 199500,
+    "zp_to": null,
+    "rec": "Уверенное знание JavaScript, HTML5, CSS3, GIT. Знание одного из фреймворков: Vue.js, React, Angular. Практические знания адаптивной верстки с..."
+  },
+  {
+    "id": "86537570",
+    "name": "Full-stack разработчик (Node.js_TypeScript_React)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт в роли web full stack разработчика NodeJS/TS/NestJS от 3 лет с участием в высоконагруженных проектах. "
+  },
+  {
+    "id": "86468737",
+    "name": "Web-разработчик (PHP, JS, MySQL, Yii1) Junior+/Middle",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 120000,
+    "zp_to": 160000,
+    "rec": "Опытом в коммерческой разработке от года. Умение писать простой и понятный код. Умение анализировать информацию и самостоятельно находить решение проблем. "
+  },
+  {
+    "id": "85829831",
+    "name": "Senior Frontend-разработчик (JavaScript, React)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 300000,
+    "zp_to": null,
+    "rec": "Обязательно опыт от 5 лет с высоконагруженными приложениями (от 1 млн пользователей в месяц): JavaScript. React. Redux. CSS3. "
+  },
+  {
+    "id": "86220722",
+    "name": "Middle Верстальщик (Vue.js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Отличные знания HTML и CSS (и SCSS). Адаптивная верстка (подход Mobile First). Кроссбраузерная, семантическая и доступная вёрстка. Владение БЭМ-методологией. "
+  },
+  {
+    "id": "86471177",
+    "name": "Middle Vue.js разработчик (удаленно)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Что нужно знать: Отличные знания JS es6+, HTML/CSS на уровне профи, уметь работать с pug. "
+  },
+  {
+    "id": "86444375",
+    "name": "JS Developer (Angular)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Высшее образование. Опыт Frontend разработки от 2х лет. Опыт работы с Angular. Уверенные знания JavaScript (асинхроность, работа браузера, контексты..."
+  },
+  {
+    "id": "86268096",
+    "name": "Frontend developer (Vue.Js)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": 220000,
+    "rec": "Опыт от 2 лет. Знание и опыт работы с JS-фреймворками (VueJS), понимание реактивности, декларативного подхода в программировании. "
+  },
+  {
+    "id": "85656387",
+    "name": "Разработчик Fullstack php+ js (госуслуги, госвеб)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Аналитическое мышление и умение систематизировать информацию. Хорошие знания PHP 7.4+. ООП, PSR, Паттерны проектирования. Composer, GIT. "
+  },
+  {
+    "id": "86078295",
+    "name": "Frontend developer (Vue.js/HTML)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 90000,
+    "zp_to": 110000,
+    "rec": "Есть опыт вёрстки. Верстать предстоит сразу и много. Знания JavaScript обязательно: синтаксис и базовые конструкции, Fetch/Ajax, ООП. "
+  },
+  {
+    "id": "86097402",
+    "name": "Ведущий JS - разработчик",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Опыт работы с поддержкой и модификацией чужого кода. Знание и понимание реализации ООП в JS. Знание и понимание реляционных СУБД..."
+  },
+  {
+    "id": "85705671",
+    "name": "Front-end разработчик (JavaScript / React / Angular / Vue)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Хорошее понимание разработки web приложений на JavaScript. Опыт разработки от 3х лет с использование фреймворков React/Angular/Vue. "
+  },
+  {
+    "id": "86258314",
+    "name": "JavaScript Developer (Antidrone)",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": null,
+    "zp_to": null,
+    "rec": "Уверенное владение JS. Базовые знания HTML CSS/SASS. Уверенное владение React. Опыт работы с Redux/MobX. Опыт работы с git. "
+  },
+  {
+    "id": "86249885",
+    "name": "Middle/Senior Back-end Developer (Node.js / JavaScript), удалённо",
+    "url": "https://api.hh.ru/areas/1",
+    "zp_from": 150000,
+    "zp_to": 300000,
+    "rec": "Опыт работы с node.js в продуктовой команде не менее 3 лет. Опыт написания SQL запросов для PostgreSQL. Опыт работы с..."
+  }
+]

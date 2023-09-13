@@ -1,84 +1,63 @@
-import json
-from abc import ABC, abstractmethod
-import configprog
-import requests
+from api_platforms_class import HeadHunterAPI, SuperJobAPI
+from vacancy import Vacancy
+from file_class import JSON_File
 
 
-class abstrvacansy(ABC):    # абстрактные класс
-    @abstractmethod
-    def connect_api(self):
-        pass
-    @abstractmethod
-    def download_vacancy(self):
-        pass
+def main() -> None:
+    """
+    Главная функция для выполнения запросов и сравнения вакансий.
 
+    Функция позволяет пользователю выбрать платформу (HeadHunter или SuperJob),
+    ввести название вакансии и номер страницы для получения вакансий. Затем
+    пользователь может просмотреть список вакансий, сравнить две вакансии по
+    зарплате и сохранить результаты в файл JSON.
 
-class super_job(abstrvacansy):      # класс для работы с суперджобом
-    def __init__(self):
-        pass
-    def connect_api(self):
-        pass
-    def download_vacancy(self):
-        pass
+    """
+    print('1. HeadHunter')
+    print('2. SuperJob')
+    platforms_choice = int(input('Выберите платформу (1, 2): '))
+    vac_name = input('Введите название вакансии: ')
+    print('За один запрос Вы можете получить одну страницу вакансий.')
+    print('Одна страница содержит до 50 вакансий')
+    vac_page = input('Введите номер страницы, которую хотите получить: ')
+    print()
 
-class h_h(abstrvacansy):      # класс для работы с хедхантер
-    def __init__(self):
-        pass
-    def connect_api(self):
-        pass
-    def download_vacancy(self,name,page):
-        params = {
-            'text': f'NAME:{name}',  # Текст фильтра. В имени должно быть слово "Аналитик"
-            'area': 1,  # Поиск ощуществляется по вакансиям города Москва
-            'page': page,  # Индекс страницы поиска на HH
-            'per_page': 50  # Кол-во вакансий на 1 странице
-        }
+    if platforms_choice == 1:
+        platform = HeadHunterAPI()
+    elif platforms_choice == 2:
+        platform = SuperJobAPI()
 
-        req = requests.get('https://api.hh.ru/vacancies', params)  # Посылаем запрос к API
-        data = req.content.decode()  # Декодируем его ответ, чтобы Кириллица отображалась корректно
-        req.close()
-        vaclist = json.loads(data)['items']
-        vaclistshort = []
-        for vac in vaclist:
-            name = vac["name"]
-            url = vac["area"]["url"]
-            if vac.get("salary"):
-                zp_from = vac["salary"].get("from")
-                zp_to = vac["salary"].get("to")
+    vac_list = platform.get_vacancy_page(vac_name, vac_page)
+    for number, vac in enumerate(vac_list):
+        print(number, end=' ')
+        for key, value in vac.items():
+            print(f'{key} : {value}', end=' ')
+        print()
+
+    print()
+
+    while True:
+        sample = input('Для сравнения вакансий по зарплате введите их номера через пробел или оставьте поле пустым для пропуска сравнения: ')
+        if sample:
+            sample = sample.split()
+            if 0 < int(sample[0]) < 50 and 0 < int(sample[1]) < 50:
+                vac_1 = Vacancy(vac_list[int(sample[0])])
+                vac_2 = Vacancy(vac_list[int(sample[1])])
+                sample_result = vac_1.compare(vac_2)
+
+                print('Результат сравнения:', sample_result)
             else:
-                zp_from = None
-                zp_to = None
-            rec = vac["snippet"]["requirement"]
-            vaclistshort.append({"name": name, "url": url, "zp_from": zp_from, "zp_to": zp_to, "rec": rec})
+                print('ошибка номера вакансии')
+        else:
+            break
 
-        return vaclistshort
+    save = input('Хотите сохранить результат в файл (y / n): ')
+    if save == 'y':
+        if platforms_choice == 1:
+            js_saver = JSON_File('hh_vacancies.json')
+        elif platforms_choice == 2:
+            js_saver = JSON_File('sj_vacancies.json')
+        js_saver.save(vac_list)
 
-class save_info(ABC):
-    @abstractmethod
-    def write_info(self):
-        pass
-    @abstractmethod
-    def dell_info(self):
-        pass
-    @abstractmethod
-    def search_info(self):
-        pass
-
-class save_file(save_info):
-    def __init__(self):
-        pass
-    def write_info(self):
-        pass
-    def dell_info(self):
-        pass
-    def search_info(self):
-        pass
-
-
-class vacansy:
-    def __init__(self,name,url,zp_from,zp_to,rec):
-        self.name = name
-        self.url = url
-        self.zp_from = zp_from
-        self.zp_to = zp_to
-        self.rec = rec
+if __name__ == '__main__':
+    main()
